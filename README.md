@@ -1,5 +1,7 @@
 README file for the REMINDER PROGRAM
 
+Short description: This program allows users to send reminder messages on their mobile phone at a pre-defined time. It allows to set three reminders per day (the 'wake-up', 'do-sports', and 'get-to-rest' reminders). As the text for each reminder SMS can be set by the user, the reminder instances can be used for any purpose. The main idea is that the program can run all week and send the same reminders every day, helping you to structure your working days.
+
 Version: The program was created with Python 2.7.10.
 OS: The program was created and executed under Windows 10, using a 64bit machine.
 
